@@ -16,3 +16,4 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
 - ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about their professions like sandwich makers, farmers, decorators and even coders.
 
 [![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritika-Das)](https://github.com/anuraghazra/github-readme-stats)
+![Ritika's github stats](https://github-readme-stats.vercel.app/api?username=Ritika-Das&show_icons=true)
