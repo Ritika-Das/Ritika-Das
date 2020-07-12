@@ -3,7 +3,7 @@
 <!--
 **Ritika-Das/Ritika-Das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on creating 3D models, simulations and digital circuits for viable future projects.
 - 🌱 I’m currently learning (and looking up stuff on) how to give some of my favourite music a digital rendition.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can view my activity at https://www.linkedin.com/in/ritika-das-ece/, where I get to know an ounce more about topics I care for.
 - 😄 Pronouns: ANY. Literally.
 - ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about their professions like sandwich makers, farmers, decorators and even coders.
--->
+
