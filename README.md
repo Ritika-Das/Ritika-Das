@@ -13,7 +13,7 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
   <img align="left" alt="Ritika's Unique Badge" width="130px" src="https://forthebadge.com/images/badges/gluten-free.svg" />
 </a>
 </a>
-<a href="https://www.linkedin.com/in/ritika-das-ece/">
+<a href="https://github.com/Ritika-Das/">
   <img align="left" alt="Ritika's Unique Badge" width="130px" src="https://img.shields.io/badge/GitHub-Ritika%20-red.svg" />
 </a>
 <br>
