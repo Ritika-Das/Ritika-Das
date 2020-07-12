@@ -10,7 +10,7 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
   <img align="left" alt="Ritika's Unique Badge" width="200px" src="https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ritika-das-ece/">
-  <img align="left" alt="Ritika's Unique Badge" width="100px" src="https://forthebadge.com/images/badges/gluten-free.svg" />
+  <img align="left" alt="Ritika's Unique Badge" width="130px" src="https://forthebadge.com/images/badges/gluten-free.svg" />
 </a>
 <br>
 - 🔭 I’m currently working on creating 3D models, simulations and digital circuits for viable future projects.
