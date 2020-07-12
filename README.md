@@ -6,7 +6,10 @@
 Here are some ideas to get you started:-->
 Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.
 <a href="https://www.linkedin.com/in/ritika-das-ece/">
-  <img align="left" alt="Ritika's LinkedIn" width="21px" src="https://raw.githubusercontent.com/Ritika-Das/Ritika-Das/master/assets/linkedin.svg" />
+  <img align="left" alt="Ritika's Unique Badge" width="21px" src="https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ritika-das-ece/">
+  <img align="left" alt="Ritika's Unique Badge" width="21px" src="https://forthebadge.com/images/badges/gluten-free.svg" />
 </a>
 - 🔭 I’m currently working on creating 3D models, simulations and digital circuits for viable future projects.
 - 🌱 I’m currently learning (and looking up stuff on) how to give some of my favourite music a digital rendition.
