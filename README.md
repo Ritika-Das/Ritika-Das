@@ -7,9 +7,8 @@ Here are some ideas to get you started:-->
 Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.
 <br> <br>
 <a href="https://www.linkedin.com/in/ritika-das-ece/">
-  <img align="left" alt="Ritika's Unique Badge" width="200px" src="https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg" /></a> which are <a href="https://www.linkedin.com/in/ritika-das-ece/">
+  <img align="left" alt="Ritika's Unique Badge" width="200px" src="https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg" /></a>  <a href="https://www.linkedin.com/in/ritika-das-ece/">
   <img align="left" alt="Ritika's Unique Badge" width="130px" src="https://forthebadge.com/images/badges/gluten-free.svg" /></a>
- using 
 <a href="https://github.com/Ritika-Das/">
   <img align="left" alt="Ritika's Unique Badge" width="130px" src="https://img.shields.io/badge/GitHub-Ritika%20-red.svg" />
 </a>
