@@ -12,6 +12,10 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
 <a href="https://www.linkedin.com/in/ritika-das-ece/">
   <img align="left" alt="Ritika's Unique Badge" width="130px" src="https://forthebadge.com/images/badges/gluten-free.svg" />
 </a>
+</a>
+<a href="https://www.linkedin.com/in/ritika-das-ece/">
+  <img align="left" alt="Ritika's Unique Badge" width="130px" src="https://img.shields.io/badge/GitHub-Ritika%20-red.svg" />
+</a>
 <br>
 - 🔭 I’m currently working on creating 3D models, simulations and digital circuits for viable future projects.
 - 🌱 I’m currently learning (and looking up stuff on) how to give some of my favourite music a digital rendition.
