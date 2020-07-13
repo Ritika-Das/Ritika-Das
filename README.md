@@ -23,4 +23,4 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
 - ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about their professions like sandwich makers, farmers, decorators and even coders.
 
 ![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritika-Das&show_icons=true&title_color=FFFFFF&icon_color=608867&text_color=FEF23C&bg_color=CC8DF2)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ritika-Das&repo=3D_Piezoelectric_Shoe&show_icons=true&title_color=FFFFFF&icon_color=608867&text_color=121318&bg_color=FFBABA)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ritika-Das&repo=3D_Piezoelectric_Shoe&show_icons=true&title_color=FFFFFF&icon_color=608867&text_color=121318&bg_color=28E047)
