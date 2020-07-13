@@ -1,5 +1,5 @@
  <!--[![Hello 👋🏻](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wHfu?ver=e2f5)](https://www.linkedin.com/in/ritika-das-ece/)-->
-![Hello 👋🏻](https://www.anglaisfacile.com/cgi2/myexam/images/14825.gif)
+![Hello 👋🏻](https://www.anglaisfacile.com/cgi2/myexam/images/14825.gif) 
 <!--
 **Ritika-Das/Ritika-Das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
