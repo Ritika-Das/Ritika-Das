@@ -22,6 +22,5 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
 - 😄 Pronouns: ANY. Literally.
 - ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about their professions like sandwich makers, farmers, decorators and even coders.
 
-![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritika-Das&show_icons=true)
-![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritika-Das&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritika-Das&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=CC8DF2)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ritika-Das&repo=3D_Piezoelectric_Shoe)
