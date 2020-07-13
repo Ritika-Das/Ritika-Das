@@ -18,7 +18,7 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
 <!-- - 👯 I’m looking to collaborate on similar topics.
 - 🤔 I’m looking for help with new ideas related to my current repository stuff.
 - 💬 Ask me about anything in my repositories.-->
-- 📫 How to reach me: You can view my activity at https://www.linkedin.com/in/ritika-das-ece/, where I get to know an ounce more about topics I care for.
+- 📫 How to reach me: You can view my activity [here](https://www.linkedin.com/in/ritika-das-ece/), where I get to know an ounce more about topics I care for.
 - 😄 Pronouns: ANY. Literally.
 - ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about their professions like sandwich makers, farmers, decorators and even coders.
 
