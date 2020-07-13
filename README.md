@@ -10,9 +10,9 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
   <img align="left" alt="Ritika's Unique Badge" width="200px" src="https://img.shields.io/badge/LinkedIn-Ritika%20-blue.svg" /></a>  <a href="https://www.hackerrank.com/ritz_kitty">
   <img align="left" alt="Ritika's Unique Badge" width="220px" src="https://img.shields.io/badge/Hackerrank-Ritika%20-green.svg" /></a>
 <a href="https://github.com/Ritika-Das/">
-  <img align="left" alt="Ritika's Unique Badge" width="200px" src="https://img.shields.io/badge/GitHub-Ritika%20-red.svg" />
+  <img align="left" alt="Ritika's Unique Badge" width="180px" src="https://img.shields.io/badge/GitHub-Ritika%20-red.svg" />
 </a>
-<br>
+<br><br>
 - 🔭 I’m currently working on creating 3D models, simulations and digital circuits for viable future projects.
 - 🌱 I’m currently learning (and looking up stuff on) how to give some of my favourite music a digital rendition.
 - 👯 I’m looking to collaborate on similar topics.
