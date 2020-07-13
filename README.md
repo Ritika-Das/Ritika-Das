@@ -7,10 +7,10 @@ Here are some ideas to get you started:-->
 Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.
 <br> <br>
 <a href="https://www.linkedin.com/in/ritika-das-ece/">
-  <img align="left" alt="Ritika's Unique Badge" width="200px" src="https://img.shields.io/badge/LinkedIn-Ritika%20-blue.svg" /></a>  <a href="https://www.linkedin.com/in/ritika-das-ece/">
-  <img align="left" alt="Ritika's Unique Badge" width="130px" src="https://forthebadge.com/images/badges/gluten-free.svg" /></a>
+  <img align="left" alt="Ritika's Unique Badge" width="200px" src="https://img.shields.io/badge/LinkedIn-Ritika%20-blue.svg" /></a>  <a href="https://www.hackerrank.com/ritz_kitty">
+  <img align="left" alt="Ritika's Unique Badge" width="200px" src="https://img.shields.io/badge/Hackerrank-Ritika%20-green.svg" /></a>
 <a href="https://github.com/Ritika-Das/">
-  <img align="left" alt="Ritika's Unique Badge" width="170px" src="https://img.shields.io/badge/GitHub-Ritika%20-red.svg" />
+  <img align="left" alt="Ritika's Unique Badge" width="200px" src="https://img.shields.io/badge/GitHub-Ritika%20-red.svg" />
 </a>
 <br>
 - 🔭 I’m currently working on creating 3D models, simulations and digital circuits for viable future projects.
