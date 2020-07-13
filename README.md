@@ -14,7 +14,7 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
 </a>
 <br><br>
 - 🔭 I’m currently working on creating 3D models, simulations and digital circuits for viable future projects.
-- 🌱 I’m currently learning (and looking up stuff on) how to give some of my favourite music a digital rendition.<!-- - 👯 I’m looking to collaborate on similar topics.
+- 🌱 I’m currently learning (and looking up stuff on) how to give some of my favourite music a digital rendition.<!--  👯 I’m looking to collaborate on similar topics.
 - 🤔 I’m looking for help with new ideas related to my current repository stuff.
 - 💬 Ask me about anything in my repositories.-->
 - 📫 How to reach me: You can view my activity [here](https://www.linkedin.com/in/ritika-das-ece/), where I get to know an ounce more about topics I care for.
