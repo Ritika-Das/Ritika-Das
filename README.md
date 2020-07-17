@@ -4,8 +4,7 @@
 <!--
 **Ritika-Das/Ritika-Das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started:-->
 Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.
-<br> 
-
+<br><br>
 <a href="https://www.linkedin.com/in/ritika-das-ece/"><img align="left" alt="Ritika's Unique Badge" width="200px" src="https://img.shields.io/badge/LinkedIn-Ritika%20-blue.svg" /></a><emsp><a href="https://www.hackerrank.com/ritz_kitty">
   <img align="left" alt="Ritika's Unique Badge" width="220px" src="https://img.shields.io/badge/Hackerrank-Ritika%20-green.svg" />
 </a><br>
