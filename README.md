@@ -17,10 +17,11 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
 - 🌱 I’m currently learning (and looking up stuff on) how to give some of my favourite music a digital rendition.
 - 📫 How to reach me: You can view my activity [here](https://www.linkedin.com/in/ritika-das-ece/), where I get to know an ounce more about topics I care for.
 - 😄 Pronouns: ANY. Literally.
-- ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about their professions like sandwich makers, farmers, decorators and even coders.
+- ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about their professions like sandwich makers, farmers, decorators and even coders. <center>
 
 ![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritika-Das&show_icons=true&title_color=FFFFFF&icon_color=A3FF00&text_color=FEF23C&bg_color=24055C)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ritika-Das&repo=3D_Piezoelectric_Shoe&show_icons=true&title_color=FFFFFF&icon_color=FFFF00&text_color=FFFFF4&bg_color=043E32)
+</center>
 <!--  👯 I’m looking to collaborate on similar topics.
 - 🤔 I’m looking for help with new ideas related to my current repository stuff.
 - 💬 Ask me about anything in my repositories.-->
