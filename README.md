@@ -6,10 +6,9 @@
 Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.
 <br> 
 
-<a href="https://www.linkedin.com/in/ritika-das-ece/"><img align="left" alt="Ritika's Unique Badge" width="200px" src="https://img.shields.io/badge/LinkedIn-Ritika%20-blue.svg" /></a>  
-<a href="https://www.hackerrank.com/ritz_kitty">
+<a href="https://www.linkedin.com/in/ritika-das-ece/"><img align="left" alt="Ritika's Unique Badge" width="200px" src="https://img.shields.io/badge/LinkedIn-Ritika%20-blue.svg" /></a><emsp><a href="https://www.hackerrank.com/ritz_kitty">
   <img align="left" alt="Ritika's Unique Badge" width="220px" src="https://img.shields.io/badge/Hackerrank-Ritika%20-green.svg" />
-</a>
+</a><br>
 <!--<a href="https://github.com/Ritika-Das/">
   <img align="left" alt="Ritika's Unique Badge" width="180px" src="https://img.shields.io/badge/GitHub-Ritika%20-red.svg" />
 </a>-->
