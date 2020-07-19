@@ -1,6 +1,5 @@
-<a href="https://www.anglaisfacile.com/cgi2/myexam/images/14825.gif">
-<img align="center" alt="Ritika's Unique Badge" width="150px" src="https://www.anglaisfacile.com/cgi2/myexam/images/14825.gif" />
-</a><br><p align="right" style="margin-top: -25px;"> <img src="https://komarev.com/ghpvc/?username=Ritika-Das" alt="Ritika-Das" /> </p>
+<a href="https://www.anglaisfacile.com/cgi2/myexam/images/14825.gif"><img align="center" alt="Ritika's Unique Badge" width="150px" src="https://www.anglaisfacile.com/cgi2/myexam/images/14825.gif" /><a href="https://thumbs.gfycat.com/HairyBraveCoqui-mobile.mp4"><img align="center" alt="Ritika's Unique Badge" width="100px" src="https://thumbs.gfycat.com/HairyBraveCoqui-mobile.mp4" /></a><br>
+  <p align="right" style="margin-top: -25px;"> <img src="https://komarev.com/ghpvc/?username=Ritika-Das" alt="Ritika-Das" /> </p>
 <!--
 **Ritika-Das/Ritika-Das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started:-->
 Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.
