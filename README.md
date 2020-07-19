@@ -15,7 +15,7 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
 - 🔭 I’m currently working on creating 3D models, simulations and digital circuits for viable future projects.
 - 🌱 I’m currently learning (and looking up stuff on) how to give some of my favourite music a digital rendition.
 - 📫 How to reach me: You can view my activity [here](https://www.linkedin.com/in/ritika-das-ece/), where I get to know an ounce more about topics I care for.
-- 😄 Pronouns: ANY. Literally.
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about their professions like sandwich makers, farmers, decorators and even coders. <center>
 
 ![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritika-Das&show_icons=true&title_color=FFFFFF&icon_color=A3FF00&text_color=FEF23C&bg_color=24055C)
