@@ -20,3 +20,4 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
 - 🤔 I’m looking for help with new ideas related to my current repository stuff.
 - 💬 Ask me about anything in my repositories.-->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Das&layout=compact&theme=radical" />
+<script src="https://gist.github.com/Ritika-Das/15dc88b333053da70a26fd2ca0eb822b.js"></script>
