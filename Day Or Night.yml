@@ -1,0 +1,2 @@
+- name: productive-box
+  uses: maxam2017/productive-box@v1.1.0
