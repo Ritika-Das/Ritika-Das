@@ -23,4 +23,4 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
 [![Spotify](https://ritika-das.vercel.app/api/spotify)](https://open.spotify.com/user/31ww5fnfrsk353y6kvyb6tjdxn7i)
 ### Spotify Playing 🎧
 
-[<img src="https://ritika-das.vercel.app/api/ritika-das" alt="Spotify" width="350" />](https://open.spotify.com/user/31ww5fnfrsk353y6kvyb6tjdxn7i)
+[<img src="https://ritika-das.vercel.app/api/spotify" alt="Spotify" width="350" />](https://open.spotify.com/user/31ww5fnfrsk353y6kvyb6tjdxn7i)
