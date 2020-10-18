@@ -20,3 +20,4 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
 - 🤔 I’m looking for help with new ideas related to my current repository stuff.
 - 💬 Ask me about anything in my repositories.-->
  <br><p align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Das&layout=compact&theme=radical" /></p>
+[![Spotify](https://ritika-das.vercel.app/api/spotify)](https://open.spotify.com/user/31ww5fnfrsk353y6kvyb6tjdxn7i)
