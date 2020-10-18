@@ -6,7 +6,8 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
 <p align="center"><a href="https://www.linkedin.com/in/ritika-das-ece/"><img align="center" alt="Ritika's Unique Badge" width="200px" src="https://img.shields.io/badge/LinkedIn-Ritika%20-blue.svg" /></a> <emsp> 
   <a href="https://www.hackerrank.com/ritz_kitty"><img align="center" alt="Ritika's Unique Badge" width="220px" src="https://img.shields.io/badge/Hackerrank-Ritika%20-green.svg" /></a></p><br>
 <!--<a href="https://media.giphy.com/media/xjIsb648nX0pw8kdBd/giphy.gif"><img align="left" alt="Ritika's Unique Badge" width="325px" src="https://media.giphy.com/media/xjIsb648nX0pw8kdBd/giphy.gif" /></a>-->
-  ### Spotify Playing 🎧
+  
+### Now on Spotify, I'm listening to ... 
   <img src="https://spotify.ritika-das.vercel.app/api/spotify" alt="Spotify" width="550"/>
   
 - 🔭 I’m currently working on creating 3D models, simulations and digital circuits for viable future projects.<nbsp>
