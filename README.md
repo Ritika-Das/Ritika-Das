@@ -20,7 +20,7 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
 </p><br>
   
 ### Now on Spotify, I'm listening to ... 
-  <p align="center"><img align="center" src="https://spotify.ritika-das.vercel.app/api/spotify" alt="Not listening to Spotify right now (Advertisement)" width="550"/></p>
+  <p align="center"><img align="center" src="https://spotify.ritika-das.vercel.app/api/spotify" alt=" Not listening to Spotify right now (Advertisement)" width="550"/></p>
   
 - 🔭 I’m currently working on creating 3D models, simulations and digital circuits for viable future projects.<nbsp>
 - 🌱 I’m currently learning (and looking up stuff on) how to give some of my favourite music a digital rendition.<nbsp>
