@@ -17,7 +17,7 @@
   <a href="https://www.hackerrank.com/ritz_kitty">
     <img align="center" alt="Ritika's Unique Badge" width="220px" src="https://img.shields.io/badge/Hackerrank-Ritika%20-green.svg" />
   </a>
-</p><br>
+</p>
   
 ### Now on Spotify, I'm listening to ... 
   <p align="center"><img align="center" src="https://spotify.ritika-das.vercel.app/api/spotify" alt=" Not listening to Spotify right now (Advertisement)" width="550"/></p>
