@@ -5,7 +5,7 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
 
 <p align="center"><a href="https://www.linkedin.com/in/ritika-das-ece/"><img align="center" alt="Ritika's Unique Badge" width="200px" src="https://img.shields.io/badge/LinkedIn-Ritika%20-blue.svg" /></a> <emsp> 
   <a href="https://www.hackerrank.com/ritz_kitty"><img align="center" alt="Ritika's Unique Badge" width="220px" src="https://img.shields.io/badge/Hackerrank-Ritika%20-green.svg" /></a></p><br>
-<a href="https://media.giphy.com/media/xjIsb648nX0pw8kdBd/giphy.gif"><img align="left" alt="Ritika's Unique Badge" width="325px" src="https://media.giphy.com/media/xjIsb648nX0pw8kdBd/giphy.gif" /></a>
+<!--<a href="https://media.giphy.com/media/xjIsb648nX0pw8kdBd/giphy.gif"><img align="left" alt="Ritika's Unique Badge" width="325px" src="https://media.giphy.com/media/xjIsb648nX0pw8kdBd/giphy.gif" /></a>-->[<img src="https://spotify.ritika-das.vercel.app/api/spotify" alt="Spotify" width="350" />](https://open.spotify.com/user/31ww5fnfrsk353y6kvyb6tjdxn7i)
   
 - 🔭 I’m currently working on creating 3D models, simulations and digital circuits for viable future projects.<nbsp>
 - 🌱 I’m currently learning (and looking up stuff on) how to give some of my favourite music a digital rendition.<nbsp>
@@ -20,7 +20,7 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
 - 🤔 I’m looking for help with new ideas related to my current repository stuff.
 - 💬 Ask me about anything in my repositories.-->
  <br><p align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Das&layout=compact&theme=radical" /></p>
-[![Spotify](https://ritika-das.vercel.app/api/spotify)](https://open.spotify.com/user/31ww5fnfrsk353y6kvyb6tjdxn7i)
-### Spotify Playing 🎧
 
-[<img src="https://spotify.ritika-das.vercel.app/api/spotify" alt="Spotify" width="350" />](https://open.spotify.com/user/31ww5fnfrsk353y6kvyb6tjdxn7i)
+<!--### Spotify Playing 🎧-->
+
+
