@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ritika-Das" alt="Ritika-Das"/>
 </p>
   
-Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.<br><br>
+<h4>Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.</h4><br><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ritika-das-ece/">
