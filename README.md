@@ -16,13 +16,15 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
 - 😄 Pronouns: She/Her <nbsp>
 - ⚡ Fun fact: I love learning languages in my free time so that when I go to sleep, I can dream of conversing with "foreign natives" about their professions like sandwich makers, farmers, decorators and even coders.<br>
 
-![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritika-Das&show_icons=true&theme=vue-dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritika-Das&show_icons=true&theme=vue-dark" />
+</p>
 <!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ritika-Das&repo=3D_Piezoelectric_Shoe&show_icons=true&title_color=FFFFFF&icon_color=FFFF00&text_color=FFFFF4&bg_color=043E32
 **Ritika-Das/Ritika-Das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on similar topics.
 - 🤔 I’m looking for help with new ideas related to my current repository stuff.
 - 💬 Ask me about anything in my repositories.-->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Das&layout=compact&theme=radical" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-Das&layout=compact&theme=radical" /></p>
 
 <!-- <br><p align='center'>-->
 
