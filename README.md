@@ -8,8 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ritika-Das" alt="Ritika-Das"/>
 </p>
   
-<h4>Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.</h4><br><br>
-
+<h4>Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.</h4><br>
 <p align="center">
   <a href="https://www.linkedin.com/in/ritika-das-ece/">
     <img align="center" alt="Ritika's Unique Badge" width="200px" src="https://img.shields.io/badge/LinkedIn-Ritika%20-blue.svg" />
