@@ -8,7 +8,7 @@ Welcome to my GitHub residence! 👋 Here I love to occasionally post all the pr
 <!--<a href="https://media.giphy.com/media/xjIsb648nX0pw8kdBd/giphy.gif"><img align="left" alt="Ritika's Unique Badge" width="325px" src="https://media.giphy.com/media/xjIsb648nX0pw8kdBd/giphy.gif" /></a>-->
   
 ### Now on Spotify, I'm listening to ... 
-  <img align="center" src="https://spotify.ritika-das.vercel.app/api/spotify" alt="Spotify" width="550"/>
+  <p align="center><img align="center" src="https://spotify.ritika-das.vercel.app/api/spotify" alt="Spotify" width="550"/></p>
   
 - 🔭 I’m currently working on creating 3D models, simulations and digital circuits for viable future projects.<nbsp>
 - 🌱 I’m currently learning (and looking up stuff on) how to give some of my favourite music a digital rendition.<nbsp>
